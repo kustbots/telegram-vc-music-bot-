@@ -4,9 +4,9 @@
 
 🚀 **FroZzeN VC Music Bot** isn't just another music bot—it's a **next-generation** music streaming powerhouse built with a **custom backend**, not some generic **Py-TgCalls library** like other copycats. Instead of downloading videos, we **directly stream from internal servers**, ensuring **unmatched audio quality, zero lag, and ultra-fast playback.**
 
-## 🔥 Why Choose FroZzeN VC Music Bot?
+## 🔥 Why Choose VC Music Bot?
 
-✅ **Enterprise-Grade Infrastructure** – Powered by **7 high-performance servers (1 main + 6 playback APIs)**, each with **32GB RAM & 16-core CPUs**, handling **400+ voice chats simultaneously**.  
+✅ **Enterprise-Grade Infrastructure** – Powered by **28 high-performance servers (1 main + 22 playback + 5 download)**, each with **32GB RAM & 16-core CPUs**, handling **1200+ voice chats simultaneously**.  
 ✅ **Ultra-Fast Streaming** – We bypass standard APIs and use **direct hosting links** for playback, making the experience lightning-fast.  
 ✅ **Seamless Multi-Platform Support** – YouTube, Spotify, Apple Music, SoundCloud & more!  
 ✅ **Zero Downtime & High Scalability** – Our system boasts a **6+ days uptime** without performance drops.  
